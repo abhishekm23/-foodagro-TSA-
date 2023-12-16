@@ -1,0 +1,615 @@
+,country,commodity,year,food_supply_stage,loss_percentage,cause_of_loss,main_key
+0,pakistan,wheat,1966,storage,12.0,public sector storage losses due to rodents,pakistan_wheat_storage
+1,kenya,maize (corn),1969,storage,14.25,[],kenya_maize (corn)_storage
+2,ghana,maize (corn),1969,storage,12.75,[],ghana_maize (corn)_storage
+3,united states of america,"hen eggs in shell, fresh",1970,whole supply chain,2.17,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+4,united states of america,lettuce and chicory,1970,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+5,united states of america,"other beans, green",1970,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+6,united states of america,potatoes,1970,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+7,united states of america,cabbages,1970,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+8,united states of america,carrots and turnips,1970,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+9,united states of america,"other beans, green",1971,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+10,united states of america,cabbages,1971,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+11,united states of america,"hen eggs in shell, fresh",1971,whole supply chain,2.13,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+12,united states of america,carrots and turnips,1971,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+13,united states of america,lettuce and chicory,1971,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+14,united states of america,potatoes,1971,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+15,united states of america,"hen eggs in shell, fresh",1972,whole supply chain,2.1,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+16,united states of america,"other beans, green",1972,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+17,united states of america,potatoes,1972,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+18,united states of america,cabbages,1972,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+19,united states of america,carrots and turnips,1972,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+20,united states of america,lettuce and chicory,1972,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+21,kenya,maize (corn),1973,storage,14.25,[],kenya_maize (corn)_storage
+22,united states of america,lettuce and chicory,1973,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+23,united states of america,"hen eggs in shell, fresh",1973,whole supply chain,2.07,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+24,united states of america,cabbages,1973,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+25,united states of america,carrots and turnips,1973,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+26,united states of america,potatoes,1973,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+27,united states of america,"other beans, green",1973,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+28,united states of america,"other beans, green",1974,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+29,united states of america,carrots and turnips,1974,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+30,united states of america,"hen eggs in shell, fresh",1974,whole supply chain,2.03,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+31,united states of america,potatoes,1974,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+32,united states of america,lettuce and chicory,1974,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+33,united states of america,cabbages,1974,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+34,united states of america,"other beans, green",1975,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+35,united states of america,"hen eggs in shell, fresh",1975,whole supply chain,2.0,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+36,united states of america,carrots and turnips,1975,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+37,united states of america,cabbages,1975,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+38,malawi,maize (corn),1975,storage,10.0,[],malawi_maize (corn)_storage
+39,united states of america,potatoes,1975,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+40,united states of america,lettuce and chicory,1975,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+41,united states of america,"other beans, green",1976,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+42,united states of america,cabbages,1976,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+43,united states of america,carrots and turnips,1976,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+44,united states of america,potatoes,1976,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+45,united states of america,lettuce and chicory,1976,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+46,united states of america,"hen eggs in shell, fresh",1976,whole supply chain,1.97,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+47,benin,maize (corn),1977,storage,8.5,[],benin_maize (corn)_storage
+48,pakistan,wheat,1977,storage,9.75,[],pakistan_wheat_storage
+49,united states of america,carrots and turnips,1977,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+50,united states of america,"hen eggs in shell, fresh",1977,whole supply chain,1.93,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+51,united states of america,potatoes,1977,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+52,india,rice,1977,storage,5.125,[],india_rice_storage
+53,india,wheat,1977,storage,15.0,[],india_wheat_storage
+54,united states of america,cabbages,1977,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+55,united states of america,lettuce and chicory,1977,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+56,ghana,yams,1977,storage,15.0,[],ghana_yams_storage
+57,india,maize (corn),1977,storage,7.0,[],india_maize (corn)_storage
+58,united states of america,"other beans, green",1977,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+59,united states of america,lettuce and chicory,1978,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+60,united states of america,cabbages,1978,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+61,ghana,maize (corn),1978,storage,15.0,storage,ghana_maize (corn)_storage
+62,malawi,maize (corn),1978,storage,2.3260869565217392,[],malawi_maize (corn)_storage
+63,united states of america,"other beans, green",1978,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+64,united states of america,"hen eggs in shell, fresh",1978,whole supply chain,1.9,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+65,benin,maize (corn),1978,storage,8.5,traditional on-farm storage six months improved silo storage,benin_maize (corn)_storage
+66,united states of america,potatoes,1978,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+67,united republic of tanzania,maize (corn),1978,storage,27.666666666666668,insects,united republic of tanzania_maize (corn)_storage
+68,united states of america,carrots and turnips,1978,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+69,united states of america,carrots and turnips,1979,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+70,united states of america,potatoes,1979,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+71,united states of america,lettuce and chicory,1979,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+72,united states of america,cabbages,1979,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+73,united states of america,"other beans, green",1979,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+74,united states of america,"hen eggs in shell, fresh",1979,whole supply chain,1.87,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+75,pakistan,wheat,1979,harvest,1.605,"chaudhry (1979) estimated 2.01 and 1.2% grain  losses on account of tractor threshing and combine, respectively. the combine harvester not only  minimizes the post-harvest losses but also helps in shortening the harvesting period.",pakistan_wheat_harvest
+76,kenya,maize (corn),1979,storage,2.7,insects and rodents,kenya_maize (corn)_storage
+77,united states of america,lettuce and chicory,1980,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+78,pakistan,wheat,1980,harvest,4.545,"['bala et al. (1980) also reported  4.09% grain losses of wheat by traditional methods of harvesting and threshing.'
+ 'the wheat grain losses are classified as i) pre-harvest grain loss due to  the birds, rodents and environmental; ii) harvest grain loss during harvesting of the crop; and iii) postharvest grain loss due to bundling, transporting, threshing and winnowing.  muhammad sattar et al. “grain losses of wheat as affected by different harvesting and threshing  techniques”    harvesting losses with manual wheat harvesting varied from 3 to 7% after ripening of the crop  (iqbalet al., 1980).']",pakistan_wheat_harvest
+79,united states of america,carrots and turnips,1980,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+80,united states of america,cabbages,1980,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+81,united states of america,"hen eggs in shell, fresh",1980,whole supply chain,1.83,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+82,united states of america,potatoes,1980,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+83,united states of america,"other beans, green",1980,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+84,pakistan,wheat,1980,farm,3.02125,[],pakistan_wheat_farm
+85,united states of america,"hen eggs in shell, fresh",1981,whole supply chain,1.8,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+86,united states of america,"other beans, green",1981,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+87,united states of america,carrots and turnips,1981,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+88,united states of america,lettuce and chicory,1981,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+89,united states of america,cabbages,1981,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+90,united states of america,potatoes,1981,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+91,malawi,maize (corn),1981,storage,2.066666666666667,"['insects    the mean loss of maize sustained by all farmers in the svadp was 3.2 ± 3.4% (sd) calculated by the svw method and 1.8 ± 3.5% (so) calculated by the count and weigh method (table 4).'
+ 'physical losses    a bag of maize cobs that lost only 3% by weight would also lose 3% in value. to control insect infestation, at least 40g of 2% pirimiphos methyl would be needed for each bag of cobs. this would cost 4% of the cob value and would not completely eliminate the infestation or the damage.']",malawi_maize (corn)_storage
+92,united states of america,potatoes,1982,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+93,united states of america,"hen eggs in shell, fresh",1982,whole supply chain,1.77,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+94,united states of america,lettuce and chicory,1982,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+95,united states of america,carrots and turnips,1982,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+96,united states of america,cabbages,1982,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+97,united states of america,"other beans, green",1982,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+98,united states of america,cabbages,1983,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+99,united states of america,carrots and turnips,1983,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+100,united states of america,lettuce and chicory,1983,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+101,united states of america,potatoes,1983,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+102,pakistan,wheat,1983,harvest,3.67,"bukhariet al. (1983) found that the average grain losses during conventional harvesting, bundling,  transporting, threshing, winnowing and cleaning were 3.67, 3.98, 0.24, 1.18, 2.46, and 4.53%,  respectively",pakistan_wheat_harvest
+103,pakistan,wheat,1983,farm,3.065,winnowing,pakistan_wheat_farm
+104,united states of america,"hen eggs in shell, fresh",1983,whole supply chain,1.73,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+105,united states of america,orange juice,1983,whole supply chain,46.4798,[],united states of america_orange juice_whole supply chain
+106,united states of america,"other beans, green",1983,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+107,united states of america,carrots and turnips,1984,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+108,pakistan,wheat,1984,storage,9.5,[],pakistan_wheat_storage
+109,pakistan,wheat,1984,harvest,13.2,[],pakistan_wheat_harvest
+110,united states of america,"hen eggs in shell, fresh",1984,whole supply chain,1.7,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+111,united states of america,lettuce and chicory,1984,whole supply chain,8.5,[],united states of america_lettuce and chicory_whole supply chain
+112,united states of america,orange juice,1984,whole supply chain,49.4036,[],united states of america_orange juice_whole supply chain
+113,united states of america,cabbages,1984,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+114,united states of america,potatoes,1984,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+115,united states of america,"other beans, green",1984,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+116,united states of america,lettuce and chicory,1985,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+117,united states of america,potatoes,1985,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+118,united states of america,"hen eggs in shell, fresh",1985,whole supply chain,1.67,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+119,united states of america,"other beans, green",1985,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+120,pakistan,wheat,1985,harvest,2.1,"['manual harvesting'
+ 'zafarullah (1985) observed 2.1% total manual harvesting  losses']",pakistan_wheat_harvest
+121,pakistan,wheat,1985,storage,14.25,[],pakistan_wheat_storage
+122,united states of america,carrots and turnips,1985,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+123,united states of america,cabbages,1985,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+124,united states of america,orange juice,1985,whole supply chain,48.3376,[],united states of america_orange juice_whole supply chain
+125,united states of america,carrots and turnips,1986,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+126,united states of america,cabbages,1986,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+127,united states of america,"hen eggs in shell, fresh",1986,whole supply chain,1.63,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+128,united states of america,"other beans, green",1986,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+129,united states of america,orange juice,1986,whole supply chain,47.3694,[],united states of america_orange juice_whole supply chain
+130,pakistan,wheat,1986,storage,4.7,"['4 months storage in house type godowns'
+ 'losses due to rodents in godown warehouses' 'public and private storage']",pakistan_wheat_storage
+131,united states of america,potatoes,1986,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+132,united states of america,lettuce and chicory,1986,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+133,united states of america,orange juice,1987,whole supply chain,44.3356,[],united states of america_orange juice_whole supply chain
+134,china,rice,1987,storage,1.82,['insects' 'mold' 'rodents'],china_rice_storage
+135,united states of america,"other beans, green",1987,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+136,pakistan,wheat,1987,farm,4.65,reapers,pakistan_wheat_farm
+137,benin,maize (corn),1987,storage,2.5,traditional granaries,benin_maize (corn)_storage
+138,united states of america,grapefruit juice,1987,whole supply chain,48.64,[],united states of america_grapefruit juice_whole supply chain
+139,united states of america,"hen eggs in shell, fresh",1987,whole supply chain,1.6,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+140,pakistan,wheat,1987,harvest,4.8500000000000005,"['amri (1987) found  2.2% wheat losses for combine as compared to 4.65% for reapers and about 7.5% for manual  harvesting.'
+ 'combine' 'manual']",pakistan_wheat_harvest
+141,ghana,maize (corn),1987,storage,19.95,[],ghana_maize (corn)_storage
+142,united states of america,cabbages,1987,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+143,indonesia,rice,1987,processing,21.0,machine damagesmall scale,indonesia_rice_processing
+144,united states of america,potatoes,1987,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+145,united states of america,lettuce and chicory,1987,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+146,united states of america,carrots and turnips,1987,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+147,united states of america,orange juice,1988,whole supply chain,42.1167,[],united states of america_orange juice_whole supply chain
+148,united states of america,carrots and turnips,1988,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+149,pakistan,wheat,1988,harvest,1.975,"['singh et al. (1988) tested three tractor front mounted reapers, manufactured locally by fmi,  amri and ittefaq on wheat crop in pakistan. the wheat grain losses with these reapers were 1.19,  2.63 and 2.76%, respectively.'
+ 'tractors with front end reapers']",pakistan_wheat_harvest
+150,united states of america,grapefruit juice,1988,whole supply chain,47.6009,[],united states of america_grapefruit juice_whole supply chain
+151,united states of america,cabbages,1988,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+152,united states of america,"other beans, green",1988,whole supply chain,6.0,[],"united states of america_other beans, green_whole supply chain"
+153,united states of america,"hen eggs in shell, fresh",1988,whole supply chain,1.57,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+154,united states of america,lettuce and chicory,1988,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+155,united states of america,potatoes,1988,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+156,united states of america,orange juice,1989,whole supply chain,42.3322,[],united states of america_orange juice_whole supply chain
+157,united states of america,carrots and turnips,1989,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+158,united states of america,cabbages,1989,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+159,united states of america,potatoes,1989,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+160,united states of america,lettuce and chicory,1989,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+161,united states of america,"hen eggs in shell, fresh",1989,whole supply chain,1.53,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+162,united states of america,"other beans, green",1989,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+163,united states of america,grapefruit juice,1989,whole supply chain,46.2226,[],united states of america_grapefruit juice_whole supply chain
+164,united states of america,cabbages,1990,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+165,united states of america,"hen eggs in shell, fresh",1990,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+166,united states of america,grapefruit juice,1990,whole supply chain,46.0601,[],united states of america_grapefruit juice_whole supply chain
+167,united states of america,lettuce and chicory,1990,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+168,united states of america,potatoes,1990,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+169,united states of america,carrots and turnips,1990,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+170,united states of america,"other beans, green",1990,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+171,united states of america,grapefruit juice,1991,whole supply chain,47.1118,[],united states of america_grapefruit juice_whole supply chain
+172,united states of america,orange juice,1991,whole supply chain,46.6371,[],united states of america_orange juice_whole supply chain
+173,pakistan,wheat,1991,farm,2.025,"the wheat grain losses are classified as i) pre-harvest grain loss due to  the birds, rodents and environmental; ii) harvest grain loss during harvesting of the crop; and iii) postharvest grain loss due to bundling, transporting, threshing and winnowing.  muhammad sattar et al. “grain losses of wheat as affected by different harvesting and threshing  techniques”    similarly ibupotoet al. (1991) investigated that average grain losses for traditional  methods during pre-harvest, harvest and post harvest stages were 10.9, 29 and 122.9 kg ha-1  or 0.28%,  0.77% and 3.28%, respectively",pakistan_wheat_farm
+174,pakistan,wheat,1991,harvest,0.77,"the wheat grain losses are classified as i) pre-harvest grain loss due to  the birds, rodents and environmental; ii) harvest grain loss during harvesting of the crop; and iii) postharvest grain loss due to bundling, transporting, threshing and winnowing.  muhammad sattar et al. “grain losses of wheat as affected by different harvesting and threshing  techniques”    similarly ibupotoet al. (1991) investigated that average grain losses for traditional  methods during pre-harvest, harvest and post harvest stages were 10.9, 29 and 122.9 kg ha-1  or 0.28%,  0.77% and 3.28%, respectively",pakistan_wheat_harvest
+175,united states of america,cabbages,1991,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+176,united states of america,potatoes,1991,whole supply chain,8.5,[],united states of america_potatoes_whole supply chain
+177,united states of america,lettuce and chicory,1991,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+178,united states of america,"hen eggs in shell, fresh",1991,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+179,united states of america,"other beans, green",1991,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+180,united states of america,carrots and turnips,1991,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+181,united states of america,orange juice,1992,whole supply chain,42.5506,[],united states of america_orange juice_whole supply chain
+182,united states of america,carrots and turnips,1992,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+183,united states of america,potatoes,1992,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+184,united states of america,"other beans, green",1992,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+185,united states of america,"hen eggs in shell, fresh",1992,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+186,united states of america,lettuce and chicory,1992,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+187,united states of america,grapefruit juice,1992,whole supply chain,46.5656,[],united states of america_grapefruit juice_whole supply chain
+188,united states of america,cabbages,1992,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+189,united states of america,grapefruit juice,1993,whole supply chain,46.9751,[],united states of america_grapefruit juice_whole supply chain
+190,india,potatoes,1993,farm,18.0,[],india_potatoes_farm
+191,united states of america,"hen eggs in shell, fresh",1993,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+192,united states of america,"other beans, green",1993,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+193,united states of america,lettuce and chicory,1993,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+194,united states of america,potatoes,1993,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+195,china,rice,1993,storage,8.0,[],china_rice_storage
+196,india,tomatoes,1993,farm,13.0,[],india_tomatoes_farm
+197,india,"mangoes, guavas and mangosteens",1993,farm,20.0,[],"india_mangoes, guavas and mangosteens_farm"
+198,united states of america,carrots and turnips,1993,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+199,united states of america,orange juice,1993,whole supply chain,40.7758,[],united states of america_orange juice_whole supply chain
+200,united states of america,cabbages,1993,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+201,pakistan,wheat,1994,farm,1.795,"but this varies by variety 2.19% loss left on threshing floors from tractor phalla type of threshing, 2.1% from bullock threshing, 1.4% from mechanical threshing",pakistan_wheat_farm
+202,pakistan,wheat,1994,harvest,2.7,[],pakistan_wheat_harvest
+203,pakistan,wheat,1994,storage,2.25,storage weight losses in public sector stores,pakistan_wheat_storage
+204,united states of america,lettuce and chicory,1994,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+205,united states of america,"other beans, green",1994,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+206,united states of america,"hen eggs in shell, fresh",1994,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+207,united states of america,orange juice,1994,whole supply chain,41.24,[],united states of america_orange juice_whole supply chain
+208,benin,maize (corn),1994,storage,14.825,pests,benin_maize (corn)_storage
+209,united states of america,potatoes,1994,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+210,united states of america,grapefruit juice,1994,whole supply chain,46.8327,[],united states of america_grapefruit juice_whole supply chain
+211,united states of america,cabbages,1994,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+212,united states of america,carrots and turnips,1994,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+213,united states of america,"other beans, green",1995,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+214,united states of america,orange juice,1995,whole supply chain,42.5257,[],united states of america_orange juice_whole supply chain
+215,pakistan,wheat,1995,storage,11.8,"['losses due to rodents in godown warehouses'
+ 'public sector storage losses due to rodents']",pakistan_wheat_storage
+216,united states of america,carrots and turnips,1995,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+217,benin,maize (corn),1995,storage,4.3,[],benin_maize (corn)_storage
+218,united states of america,cabbages,1995,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+219,united states of america,grapefruit juice,1995,whole supply chain,47.6616,[],united states of america_grapefruit juice_whole supply chain
+220,united states of america,"hen eggs in shell, fresh",1995,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+221,united states of america,potatoes,1995,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+222,united states of america,lettuce and chicory,1995,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+223,united states of america,"hen eggs in shell, fresh",1996,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+224,united states of america,lettuce and chicory,1996,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+225,united states of america,grapefruit juice,1996,whole supply chain,47.5181,[],united states of america_grapefruit juice_whole supply chain
+226,united states of america,cabbages,1996,whole supply chain,7.5,[],united states of america_cabbages_whole supply chain
+227,united states of america,potatoes,1996,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+228,united states of america,carrots and turnips,1996,whole supply chain,3.0,[],united states of america_carrots and turnips_whole supply chain
+229,united states of america,orange juice,1996,whole supply chain,42.6613,[],united states of america_orange juice_whole supply chain
+230,united states of america,"other beans, green",1996,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+231,united states of america,cabbages,1997,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+232,united states of america,"other beans, green",1997,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+233,united states of america,"hen eggs in shell, fresh",1997,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+234,united states of america,lettuce and chicory,1997,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+235,united states of america,carrots and turnips,1997,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+236,united states of america,potatoes,1997,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+237,united states of america,orange juice,1997,whole supply chain,42.3977,[],united states of america_orange juice_whole supply chain
+238,benin,maize (corn),1997,storage,9.5,[],benin_maize (corn)_storage
+239,united states of america,grapefruit juice,1997,whole supply chain,46.3309,[],united states of america_grapefruit juice_whole supply chain
+240,united states of america,carrots and turnips,1998,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+241,united states of america,potatoes,1998,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+242,benin,maize (corn),1998,storage,19.75,moisture content and insects,benin_maize (corn)_storage
+243,united states of america,lettuce and chicory,1998,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+244,united states of america,orange juice,1998,whole supply chain,41.2242,[],united states of america_orange juice_whole supply chain
+245,ghana,maize (corn),1998,storage,12.066666666666668,pests,ghana_maize (corn)_storage
+246,united states of america,"hen eggs in shell, fresh",1998,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+247,united states of america,"other beans, green",1998,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+248,ethiopia,maize (corn),1998,storage,7.76,"['storage loss ( 4%) 98,314 t  traders (4%) traders   storage loss (9%) 584,347 t  farms (4.5%) farmers'
+ 'table 3: storage losses (%) by crop in amltara, oromyla and southern regions of ethiopia'
+ 'the main causes of storage loss in order of importance are moisture , rodents and spillage ( dessalegn et a ! 1998 ) . the loss due to moisture\', ""in bulk .    early onset of mould damage may be unusual , in view of the rain at harvest and the subsequent difficulties that many farmers faced in drying their grain this season . mould damage is regarded by local farmers as more of an inconvenience than\', \'grain this season . mould damage is regarded by local farmers as more of an inconvenience than a loss , since all the grain will be used for food or for brewing after washing to remove visible\','
+ 'there was considerable variation in the levels ofloss between crops. in wheat and  barley they were very low (around 1 %). these crops are typically grown at the higher  altitudes, where insect activity is low and storage periods are short (3-4 months).  sorghum and maize suffered higher losses (4-6%). however, it was demonstrated  that correct application of storage insecticides achieved a significant reduction of  losses in maize (to 0.5%). losses in beans were very variable (<1%- 15%).']",ethiopia_maize (corn)_storage
+249,united states of america,cabbages,1998,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+250,united states of america,grapefruit juice,1998,whole supply chain,45.9302,[],united states of america_grapefruit juice_whole supply chain
+251,united states of america,cabbages,1999,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+252,united states of america,grapefruit juice,1999,whole supply chain,43.2157,[],united states of america_grapefruit juice_whole supply chain
+253,united states of america,"other beans, green",1999,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+254,united states of america,lettuce and chicory,1999,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+255,united states of america,carrots and turnips,1999,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+256,united states of america,"hen eggs in shell, fresh",1999,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+257,united states of america,potatoes,1999,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+258,india,potatoes,1999,farm,19.8,[],india_potatoes_farm
+259,united states of america,orange juice,1999,whole supply chain,40.3116,[],united states of america_orange juice_whole supply chain
+260,united states of america,potatoes,2000,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+261,united states of america,orange juice,2000,whole supply chain,40.8538,[],united states of america_orange juice_whole supply chain
+262,united states of america,lettuce and chicory,2000,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+263,united states of america,grapefruit juice,2000,whole supply chain,43.7016,[],united states of america_grapefruit juice_whole supply chain
+264,ghana,maize (corn),2000,storage,29.0,[],ghana_maize (corn)_storage
+265,united states of america,carrots and turnips,2000,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+266,united states of america,"hen eggs in shell, fresh",2000,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+267,united states of america,cabbages,2000,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+268,united states of america,"other beans, green",2000,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+269,ghana,maize (corn),2001,storage,6.4,[],ghana_maize (corn)_storage
+270,benin,maize (corn),2001,storage,27.95,[],benin_maize (corn)_storage
+271,united states of america,orange juice,2001,whole supply chain,41.5799,[],united states of america_orange juice_whole supply chain
+272,united states of america,cabbages,2001,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+273,united states of america,"other beans, green",2001,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+274,united states of america,lettuce and chicory,2001,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+275,united states of america,potatoes,2001,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+276,united states of america,carrots and turnips,2001,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+277,united states of america,grapefruit juice,2001,whole supply chain,43.5971,[],united states of america_grapefruit juice_whole supply chain
+278,india,maize (corn),2001,storage,21.86,[],india_maize (corn)_storage
+279,ghana,yams,2001,storage,11.0,[],ghana_yams_storage
+280,united states of america,"hen eggs in shell, fresh",2001,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+281,united states of america,grapefruit juice,2002,whole supply chain,41.5765,[],united states of america_grapefruit juice_whole supply chain
+282,united states of america,carrots and turnips,2002,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+283,united states of america,cabbages,2002,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+284,united republic of tanzania,maize (corn),2002,storage,8.7,"insects, moulds, rodents",united republic of tanzania_maize (corn)_storage
+285,united states of america,orange juice,2002,whole supply chain,40.6356,[],united states of america_orange juice_whole supply chain
+286,india,wheat,2002,storage,4.95,[],india_wheat_storage
+287,united states of america,lettuce and chicory,2002,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+288,united states of america,"other beans, green",2002,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+289,united states of america,"hen eggs in shell, fresh",2002,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+290,united states of america,potatoes,2002,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+291,malawi,maize (corn),2002,storage,3.2,insects,malawi_maize (corn)_storage
+292,united states of america,potatoes,2003,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+293,ghana,yams,2003,storage,27.95,[],ghana_yams_storage
+294,india,cabbages,2003,farm,9.4,[],india_cabbages_farm
+295,india,cauliflowers and broccoli,2003,farm,12.9,[],india_cauliflowers and broccoli_farm
+296,united states of america,"other beans, green",2003,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+297,united states of america,orange juice,2003,whole supply chain,41.3291,[],united states of america_orange juice_whole supply chain
+298,india,potatoes,2003,farm,12.8,[],india_potatoes_farm
+299,india,tomatoes,2003,farm,20.0,[],india_tomatoes_farm
+300,united states of america,cabbages,2003,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+301,united states of america,grapefruit juice,2003,whole supply chain,42.5431,[],united states of america_grapefruit juice_whole supply chain
+302,united states of america,lettuce and chicory,2003,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+303,united states of america,"hen eggs in shell, fresh",2003,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+304,united states of america,carrots and turnips,2003,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+305,united states of america,orange juice,2004,whole supply chain,41.9772,[],united states of america_orange juice_whole supply chain
+306,united states of america,"other beans, green",2004,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+307,united states of america,grapefruit juice,2004,whole supply chain,43.9963,[],united states of america_grapefruit juice_whole supply chain
+308,united states of america,lettuce and chicory,2004,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+309,benin,maize (corn),2004,storage,10.85,[],benin_maize (corn)_storage
+310,united states of america,cabbages,2004,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+311,united states of america,"hen eggs in shell, fresh",2004,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+312,united states of america,potatoes,2004,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+313,united states of america,carrots and turnips,2004,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+314,united states of america,potatoes,2005,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+315,united states of america,lettuce and chicory,2005,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+316,indonesia,rice,2005,processing,0.18,[],indonesia_rice_processing
+317,united states of america,grapefruit juice,2005,whole supply chain,44.3987,[],united states of america_grapefruit juice_whole supply chain
+318,united states of america,"other beans, green",2005,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+319,united states of america,cabbages,2005,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+320,india,tomatoes,2005,farm,16.65,[],india_tomatoes_farm
+321,azerbaijan,potatoes,2005,whole supply chain,25.0,[],azerbaijan_potatoes_whole supply chain
+322,united states of america,carrots and turnips,2005,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+323,united states of america,orange juice,2005,whole supply chain,40.8924,[],united states of america_orange juice_whole supply chain
+324,united states of america,"hen eggs in shell, fresh",2005,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+325,united states of america,"hen eggs in shell, fresh",2006,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+326,united states of america,potatoes,2006,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+327,united states of america,cabbages,2006,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+328,united states of america,carrots and turnips,2006,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+329,united states of america,grapefruit juice,2006,whole supply chain,43.7133,[],united states of america_grapefruit juice_whole supply chain
+330,india,tomatoes,2006,farm,2.0525,[],india_tomatoes_farm
+331,india,cauliflowers and broccoli,2006,farm,0.7033333333333333,[],india_cauliflowers and broccoli_farm
+332,india,cauliflowers and broccoli,2006,harvest,0.84,[],india_cauliflowers and broccoli_harvest
+333,india,tomatoes,2006,harvest,1.73,[],india_tomatoes_harvest
+334,india,tomatoes,2006,storage,2.624,[],india_tomatoes_storage
+335,india,cabbages,2006,farm,0.7366666666666667,[],india_cabbages_farm
+336,united states of america,orange juice,2006,whole supply chain,40.2945,[],united states of america_orange juice_whole supply chain
+337,india,soya beans,2006,harvest,3.14,[],india_soya beans_harvest
+338,india,rice,2006,storage,1.07,[],india_rice_storage
+339,india,"mangoes, guavas and mangosteens",2006,farm,1.795,[],"india_mangoes, guavas and mangosteens_farm"
+340,india,wheat,2006,storage,1.042,[],india_wheat_storage
+341,india,"mangoes, guavas and mangosteens",2006,harvest,4.235,[],"india_mangoes, guavas and mangosteens_harvest"
+342,india,maize (corn),2006,storage,0.8325,[],india_maize (corn)_storage
+343,india,potatoes,2006,farm,3.38,[],india_potatoes_farm
+344,india,potatoes,2006,harvest,3.18,[],india_potatoes_harvest
+345,indonesia,rice,2006,processing,0.18,[],indonesia_rice_processing
+346,united states of america,"other beans, green",2006,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+347,united states of america,lettuce and chicory,2006,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+348,indonesia,rice,2007,processing,0.18,[],indonesia_rice_processing
+349,united states of america,grapefruit juice,2007,whole supply chain,42.3925,[],united states of america_grapefruit juice_whole supply chain
+350,pakistan,wheat,2007,harvest,10.3,"['sickle harvesting'
+ 'sukhbiret al. (2007) compared the performance of reaper with  conventional method of manual harvesting of wheat crop with sickle to see the feasibility. they  recorded 5.8% to 11.8% harvesting losses with reaper.']",pakistan_wheat_harvest
+351,pakistan,wheat,2007,farm,5.8,[],pakistan_wheat_farm
+352,united states of america,"other beans, green",2007,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+353,united states of america,lettuce and chicory,2007,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+354,united states of america,orange juice,2007,whole supply chain,39.0197,[],united states of america_orange juice_whole supply chain
+355,united states of america,potatoes,2007,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+356,united states of america,cabbages,2007,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+357,united states of america,"hen eggs in shell, fresh",2007,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+358,united states of america,carrots and turnips,2007,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+359,united states of america,grapefruit juice,2008,whole supply chain,38.2684,[],united states of america_grapefruit juice_whole supply chain
+360,united states of america,lettuce and chicory,2008,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+361,united states of america,carrots and turnips,2008,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+362,united states of america,orange juice,2008,whole supply chain,39.0115,[],united states of america_orange juice_whole supply chain
+363,united states of america,cabbages,2008,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+364,united states of america,potatoes,2008,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+365,united states of america,"hen eggs in shell, fresh",2008,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+366,ghana,tomatoes,2008,farm,1.745,[],ghana_tomatoes_farm
+367,ghana,maize (corn),2008,storage,1.6179999999999999,[],ghana_maize (corn)_storage
+368,india,cabbages,2008,farm,17.5,[],india_cabbages_farm
+369,ghana,yams,2008,storage,9.15,[],ghana_yams_storage
+370,united republic of tanzania,maize (corn),2008,farm,4.4,[],united republic of tanzania_maize (corn)_farm
+371,india,cauliflowers and broccoli,2008,farm,17.5,[],india_cauliflowers and broccoli_farm
+372,united states of america,"other beans, green",2008,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+373,india,tomatoes,2009,farm,1.7666666666666666,[],india_tomatoes_farm
+374,india,tomatoes,2009,harvest,6.48875,[],india_tomatoes_harvest
+375,india,tomatoes,2009,storage,6.531666666666666,[],india_tomatoes_storage
+376,united states of america,carrots and turnips,2009,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+377,united states of america,orange juice,2009,whole supply chain,37.5154,[],united states of america_orange juice_whole supply chain
+378,india,"mangoes, guavas and mangosteens",2009,harvest,3.0,[],"india_mangoes, guavas and mangosteens_harvest"
+379,india,"mangoes, guavas and mangosteens",2009,farm,4.5,[],"india_mangoes, guavas and mangosteens_farm"
+380,united states of america,potatoes,2009,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+381,india,potatoes,2009,farm,0.7549999999999999,[],india_potatoes_farm
+382,united states of america,"hen eggs in shell, fresh",2009,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+383,united states of america,cabbages,2009,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+384,ghana,tomatoes,2009,farm,22.175,"['decay'
+ 'lack of pre-sorting to remove decayed produce before packing promoted spread of fungal and bacterial diseases and insect pests during handling'
+ 'mechanical damage' 'physical losses']",ghana_tomatoes_farm
+385,india,cabbages,2009,farm,1.46,[],india_cabbages_farm
+386,india,cauliflowers and broccoli,2009,harvest,1.38,[],india_cauliflowers and broccoli_harvest
+387,india,potatoes,2009,harvest,3.56,[],india_potatoes_harvest
+388,india,cauliflowers and broccoli,2009,farm,2.966666666666667,[],india_cauliflowers and broccoli_farm
+389,united states of america,"other beans, green",2009,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+390,united states of america,grapefruit juice,2009,whole supply chain,39.869,[],united states of america_grapefruit juice_whole supply chain
+391,united states of america,lettuce and chicory,2009,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+392,united states of america,orange juice,2010,whole supply chain,39.0435,[],united states of america_orange juice_whole supply chain
+393,ghana,tomatoes,2010,farm,37.75,"the physical loss was measured by percentage of product sorted and not sold. economic losses due to poor quality (a function of the % cumulative rate of defects, decay and damage that occurred during handling) could not be determined because price data reported for crops in ghana were unreliable; the air temperatures during the handling at the farm, wholesale and retail markets were 29-31c, and 76 % rh at the farm and wholesale markets, and 72% rh at the retail market.",ghana_tomatoes_farm
+394,united states of america,grapefruit juice,2010,whole supply chain,40.9479,[],united states of america_grapefruit juice_whole supply chain
+395,united states of america,cabbages,2010,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+396,ghana,maize (corn),2010,storage,7.025,insects; large grain borer,ghana_maize (corn)_storage
+397,united republic of tanzania,maize (corn),2010,farm,2.9,[],united republic of tanzania_maize (corn)_farm
+398,united states of america,carrots and turnips,2010,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+399,india,tomatoes,2010,farm,9.913333333333334,"['decay, mechanic damage, sorting'
+ 'rough handling, the effects of high ambient temperatures and poor quality  package']",india_tomatoes_farm
+400,united states of america,"hen eggs in shell, fresh",2010,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+401,india,potatoes,2010,harvest,23.5,[],india_potatoes_harvest
+402,united states of america,"other beans, green",2010,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+403,india,"mangoes, guavas and mangosteens",2010,farm,5.75,"decay, mechanic damage, sorting","india_mangoes, guavas and mangosteens_farm"
+404,india,cauliflowers and broccoli,2010,harvest,35.5,[],india_cauliflowers and broccoli_harvest
+405,india,"mangoes, guavas and mangosteens",2010,harvest,26.125,[],"india_mangoes, guavas and mangosteens_harvest"
+406,india,tomatoes,2010,storage,9.435,[],india_tomatoes_storage
+407,india,tomatoes,2010,harvest,4.195,[],india_tomatoes_harvest
+408,united states of america,lettuce and chicory,2010,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+409,united states of america,potatoes,2010,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+410,ethiopia,maize (corn),2010,storage,3.3,"the main causes of storage loss in order of importance are moisture , rodents and spillage ( dessalegn et a ! 1998 ) . the loss due to moisture', ""in bulk .    early onset of mould damage may be unusual , in view of the rain at harvest and the subsequent difficulties that many farmers faced in drying their grain this season . mould damage is regarded by local farmers as more of an inconvenience than', 'grain this season . mould damage is regarded by local farmers as more of an inconvenience than a loss , since all the grain will be used for food or for brewing after washing to remove visible',",ethiopia_maize (corn)_storage
+411,united states of america,carrots and turnips,2011,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+412,pakistan,wheat,2011,farm,2.7083333333333335,['manual plus threser' 'reaper plus thresher'],pakistan_wheat_farm
+413,united states of america,potatoes,2011,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+414,united states of america,grapefruit juice,2011,whole supply chain,39.7023,[],united states of america_grapefruit juice_whole supply chain
+415,ghana,tomatoes,2011,farm,42.5,"['lack of diversified uses of tomatoes is one main source of postharvest losses.'
+ 'literacy and technology exposure: 60 -90 % of producers did not pre-cool produce after harvest.  used vehicles or head loads to convey produce to market. producers had no storage facilities ; marketers preferred the use of polythene materials for packaging.']",ghana_tomatoes_farm
+416,china,rice,2011,storage,7.5,[],china_rice_storage
+417,united states of america,cabbages,2011,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+418,united states of america,"hen eggs in shell, fresh",2011,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+419,united states of america,orange juice,2011,whole supply chain,41.4297,[],united states of america_orange juice_whole supply chain
+420,ghana,maize (corn),2011,storage,4.0,"resistance status of some maize lines and varieties to the maize weevil, sitophilus zeamais (motschulsky) (coleoptera: curculionidae).",ghana_maize (corn)_storage
+421,united states of america,lettuce and chicory,2011,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+422,pakistan,wheat,2011,harvest,2.92,combine,pakistan_wheat_harvest
+423,united states of america,"other beans, green",2011,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+424,pakistan,wheat,2011,storage,20.0,[],pakistan_wheat_storage
+425,india,soya beans,2012,harvest,1.0575,[],india_soya beans_harvest
+426,kenya,maize (corn),2012,storage,13.0625,[],kenya_maize (corn)_storage
+427,united states of america,potatoes,2012,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+428,ghana,yams,2012,storage,35.55,[],ghana_yams_storage
+429,united states of america,lettuce and chicory,2012,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+430,united states of america,cabbages,2012,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+431,united states of america,grapefruit juice,2012,whole supply chain,39.1931,[],united states of america_grapefruit juice_whole supply chain
+432,united states of america,orange juice,2012,whole supply chain,40.0592,[],united states of america_orange juice_whole supply chain
+433,united states of america,"hen eggs in shell, fresh",2012,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+434,united states of america,"other beans, green",2012,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+435,pakistan,wheat,2012,farm,6.88,[],pakistan_wheat_farm
+436,united states of america,carrots and turnips,2012,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+437,pakistan,wheat,2012,harvest,23.865000000000002,"['begum et al. (2012) found 0.51 kg/quintal grain losses of wheat during the threshing  activity. they concluded that threshing losses were mainly in the form of broken grains. they  observed 2.35 kg/quintal post-harvest losses at farm level. the harvesting losses have added up to  about 40.85 per cent.'
+ 'shamabadi  (2012) while evaluating the performance of eight combines observed that time of harvesting, seed  moisture content, relative humidity, field topography and varietal characteristics are the major factors  affecting harvest losses. he concluded that mean total loss by different combines was 6.88% at wheat  harvesting stage.']",pakistan_wheat_harvest
+438,united states of america,lettuce and chicory,2013,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+439,united states of america,"other beans, green",2013,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+440,india,rice,2013,storage,4.8500000000000005,[],india_rice_storage
+441,china,rice,2013,storage,6.5,"decentralized agricultural system in china  cereal storage losses resulting from insect infestations , mold damage , rat infestations , respectivel",china_rice_storage
+442,united states of america,"hen eggs in shell, fresh",2013,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+443,kenya,maize (corn),2013,storage,3.5,[],kenya_maize (corn)_storage
+444,united states of america,potatoes,2013,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+445,malawi,maize (corn),2013,storage,3.2,[],malawi_maize (corn)_storage
+446,united republic of tanzania,maize (corn),2013,farm,23.5,[],united republic of tanzania_maize (corn)_farm
+447,united states of america,carrots and turnips,2013,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+448,india,soya beans,2013,harvest,7.45,[],india_soya beans_harvest
+449,indonesia,rice,2013,processing,10.0,['defects/impurities small scale' 'machine damagesmall scale'],indonesia_rice_processing
+450,united republic of tanzania,maize (corn),2013,storage,20.0,". quantitative post-harvest losses of economic importance occur  in the field (15%); during processing (13e20%), and during storage (15e25%). the main storage pests  responsible for the losses are larger grain borers (prostephanus truncatus), grain weevils (sitophilus  granarius) and, the lesser grain borer (rhyzopertha dominica). most of the farmers considered changes in  weather (40%), field damage (33%), and storage pests (16%) as the three most important factors causing  poor crop yields and aggravating food losses. however, survey results suggest that the farmers’ poor  knowledge and skills on post-harvest management are largely responsible for the food losses. 77% of the  surveyed farmers reported inadequate household foods and 41% received food aid during the previous  year. increasing farmers’ technical know-how on adaptation of the farming systems to climate variability,  and training on post-harvest management could reduce food losses, and improve poverty and household  food security",united republic of tanzania_maize (corn)_storage
+451,united states of america,grapefruit juice,2013,whole supply chain,41.5846,[],united states of america_grapefruit juice_whole supply chain
+452,pakistan,wheat,2013,harvest,12.71,mirasi et al. (2013) measured grain losses of different wheat varieties with different  models of combine during harvest stage. they observed that average pre harvest losses in all fields of  study were 31.4 kg ha-1  accounting for 12.71 percent of total losses.,pakistan_wheat_harvest
+453,united states of america,orange juice,2013,whole supply chain,39.518,[],united states of america_orange juice_whole supply chain
+454,pakistan,wheat,2013,farm,3.0375,[],pakistan_wheat_farm
+455,united states of america,cabbages,2013,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+456,india,tomatoes,2014,farm,1.5625,[],india_tomatoes_farm
+457,india,cauliflowers and broccoli,2014,harvest,2.21,[],india_cauliflowers and broccoli_harvest
+458,india,cauliflowers and broccoli,2014,farm,1.4733333333333334,[],india_cauliflowers and broccoli_farm
+459,united states of america,lettuce and chicory,2014,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+460,india,"mangoes, guavas and mangosteens",2014,farm,1.5233333333333332,['birds and insects attack' 'poor handling and storage'],"india_mangoes, guavas and mangosteens_farm"
+461,india,wheat,2014,storage,0.17,[],india_wheat_storage
+462,india,tomatoes,2014,storage,0.7575,[],india_tomatoes_storage
+463,india,tomatoes,2014,harvest,3.16,[],india_tomatoes_harvest
+464,india,"mangoes, guavas and mangosteens",2014,harvest,3.71,overripe,"india_mangoes, guavas and mangosteens_harvest"
+465,united states of america,"other beans, green",2014,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+466,united states of america,carrots and turnips,2014,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+467,united states of america,orange juice,2014,whole supply chain,41.2515,[],united states of america_orange juice_whole supply chain
+468,india,potatoes,2014,farm,1.08,[],india_potatoes_farm
+469,india,potatoes,2014,harvest,2.58,[],india_potatoes_harvest
+470,ghana,yams,2014,storage,9.5,['other causes such as rodents and theft' 'rotting'],ghana_yams_storage
+471,united states of america,cabbages,2014,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+472,india,rice,2014,storage,0.16999999999999998,[],india_rice_storage
+473,india,soya beans,2014,harvest,1.17,temperature,india_soya beans_harvest
+474,united states of america,potatoes,2014,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+475,india,cabbages,2014,farm,1.3533333333333333,[],india_cabbages_farm
+476,united states of america,"hen eggs in shell, fresh",2014,whole supply chain,4.25,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+477,india,maize (corn),2014,storage,0.15,[],india_maize (corn)_storage
+478,united states of america,grapefruit juice,2014,whole supply chain,44.406,[],united states of america_grapefruit juice_whole supply chain
+479,azerbaijan,wheat,2015,whole supply chain,4.92,[],azerbaijan_wheat_whole supply chain
+480,azerbaijan,"meat of goat, fresh or chilled",2015,whole supply chain,0.47,[],"azerbaijan_meat of goat, fresh or chilled_whole supply chain"
+481,united states of america,carrots and turnips,2015,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+482,china,rice,2015,storage,1.7841304347826088,[],china_rice_storage
+483,ethiopia,maize (corn),2015,storage,6.9,insect pest,ethiopia_maize (corn)_storage
+484,united states of america,orange juice,2015,whole supply chain,43.7021,[],united states of america_orange juice_whole supply chain
+485,ghana,tomatoes,2015,farm,25.0,[],ghana_tomatoes_farm
+486,united states of america,cabbages,2015,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+487,azerbaijan,potatoes,2015,whole supply chain,3.67,[],azerbaijan_potatoes_whole supply chain
+488,united states of america,"hen eggs in shell, fresh",2015,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+489,united states of america,grapefruit juice,2015,whole supply chain,46.7764,[],united states of america_grapefruit juice_whole supply chain
+490,azerbaijan,tomatoes,2015,whole supply chain,5.7,[],azerbaijan_tomatoes_whole supply chain
+491,azerbaijan,"onions and shallots, green",2015,whole supply chain,4.75,[],"azerbaijan_onions and shallots, green_whole supply chain"
+492,united states of america,lettuce and chicory,2015,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+493,azerbaijan,oats,2015,whole supply chain,6.55,[],azerbaijan_oats_whole supply chain
+494,united states of america,"other beans, green",2015,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+495,azerbaijan,"eggs, dried",2015,whole supply chain,0.4,[],"azerbaijan_eggs, dried_whole supply chain"
+496,united states of america,potatoes,2015,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+497,azerbaijan,grapes,2015,whole supply chain,2.07,[],azerbaijan_grapes_whole supply chain
+498,malawi,maize (corn),2015,storage,20.3,storage of untreated grain,malawi_maize (corn)_storage
+499,pakistan,wheat,2015,harvest,2.0324999999999998,machinery and handling tests,pakistan_wheat_harvest
+500,india,wheat,2016,storage,0.86,[],india_wheat_storage
+501,kenya,maize (corn),2016,storage,6.907272727272727,['insects' 'rodents'],kenya_maize (corn)_storage
+502,india,soya beans,2016,harvest,6.54,[],india_soya beans_harvest
+503,india,tomatoes,2016,farm,9.41,[],india_tomatoes_farm
+504,india,tomatoes,2016,storage,3.03,[],india_tomatoes_storage
+505,united states of america,grapefruit juice,2016,whole supply chain,46.601,[],united states of america_grapefruit juice_whole supply chain
+506,united republic of tanzania,maize (corn),2016,storage,4.8,[],united republic of tanzania_maize (corn)_storage
+507,united republic of tanzania,maize (corn),2016,farm,1.55,[],united republic of tanzania_maize (corn)_farm
+508,azerbaijan,potatoes,2016,whole supply chain,3.59,[],azerbaijan_potatoes_whole supply chain
+509,india,tomatoes,2016,harvest,3.16,[],india_tomatoes_harvest
+510,azerbaijan,tomatoes,2016,whole supply chain,5.69,[],azerbaijan_tomatoes_whole supply chain
+511,india,cauliflowers and broccoli,2016,farm,7.55,[],india_cauliflowers and broccoli_farm
+512,india,maize (corn),2016,storage,0.75,[],india_maize (corn)_storage
+513,india,cabbages,2016,farm,6.81,[],india_cabbages_farm
+514,united states of america,cabbages,2016,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+515,india,"mangoes, guavas and mangosteens",2016,farm,9.41,[],"india_mangoes, guavas and mangosteens_farm"
+516,india,"mangoes, guavas and mangosteens",2016,harvest,3.71,[],"india_mangoes, guavas and mangosteens_harvest"
+517,india,potatoes,2016,farm,4.87,[],india_potatoes_farm
+518,benin,maize (corn),2016,storage,6.2,insects and moisture,benin_maize (corn)_storage
+519,united states of america,carrots and turnips,2016,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+520,azerbaijan,wheat,2016,whole supply chain,6.09,[],azerbaijan_wheat_whole supply chain
+521,india,potatoes,2016,harvest,2.58,[],india_potatoes_harvest
+522,india,cauliflowers and broccoli,2016,harvest,2.21,[],india_cauliflowers and broccoli_harvest
+523,india,rice,2016,storage,0.86,[],india_rice_storage
+524,azerbaijan,"meat of goat, fresh or chilled",2016,whole supply chain,0.46,[],"azerbaijan_meat of goat, fresh or chilled_whole supply chain"
+525,united states of america,orange juice,2016,whole supply chain,46.3559,[],united states of america_orange juice_whole supply chain
+526,united states of america,"other beans, green",2016,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+527,azerbaijan,grapes,2016,whole supply chain,2.08,[],azerbaijan_grapes_whole supply chain
+528,azerbaijan,"eggs, dried",2016,whole supply chain,0.41,[],"azerbaijan_eggs, dried_whole supply chain"
+529,united states of america,potatoes,2016,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+530,azerbaijan,oats,2016,whole supply chain,6.95,[],azerbaijan_oats_whole supply chain
+531,united states of america,lettuce and chicory,2016,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+532,azerbaijan,"onions and shallots, green",2016,whole supply chain,5.37,[],"azerbaijan_onions and shallots, green_whole supply chain"
+533,united states of america,"hen eggs in shell, fresh",2016,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+534,azerbaijan,potatoes,2017,whole supply chain,3.63,[],azerbaijan_potatoes_whole supply chain
+535,azerbaijan,"onions and shallots, green",2017,whole supply chain,5.37,[],"azerbaijan_onions and shallots, green_whole supply chain"
+536,azerbaijan,grapes,2017,whole supply chain,2.08,[],azerbaijan_grapes_whole supply chain
+537,united states of america,lettuce and chicory,2017,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+538,united states of america,grapefruit juice,2017,whole supply chain,47.6184,[],united states of america_grapefruit juice_whole supply chain
+539,united states of america,"hen eggs in shell, fresh",2017,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+540,united states of america,potatoes,2017,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+541,azerbaijan,"eggs, dried",2017,whole supply chain,0.5,[],"azerbaijan_eggs, dried_whole supply chain"
+542,united states of america,cabbages,2017,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+543,azerbaijan,oats,2017,whole supply chain,6.56,[],azerbaijan_oats_whole supply chain
+544,azerbaijan,"meat of goat, fresh or chilled",2017,whole supply chain,0.49,[],"azerbaijan_meat of goat, fresh or chilled_whole supply chain"
+545,azerbaijan,tomatoes,2017,whole supply chain,5.69,[],azerbaijan_tomatoes_whole supply chain
+546,azerbaijan,wheat,2017,whole supply chain,5.95,[],azerbaijan_wheat_whole supply chain
+547,united states of america,"other beans, green",2017,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+548,united states of america,carrots and turnips,2017,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+549,ghana,maize (corn),2017,storage,4.1,[],ghana_maize (corn)_storage
+550,united states of america,orange juice,2017,whole supply chain,47.7591,[],united states of america_orange juice_whole supply chain
+551,azerbaijan,tomatoes,2018,whole supply chain,5.69,[],azerbaijan_tomatoes_whole supply chain
+552,ghana,maize (corn),2018,storage,5.18,[],ghana_maize (corn)_storage
+553,azerbaijan,"meat of goat, fresh or chilled",2018,whole supply chain,0.95,[],"azerbaijan_meat of goat, fresh or chilled_whole supply chain"
+554,azerbaijan,"onions and shallots, green",2018,whole supply chain,5.37,[],"azerbaijan_onions and shallots, green_whole supply chain"
+555,azerbaijan,oats,2018,whole supply chain,6.56,[],azerbaijan_oats_whole supply chain
+556,azerbaijan,grapes,2018,whole supply chain,2.08,[],azerbaijan_grapes_whole supply chain
+557,ethiopia,maize (corn),2018,storage,14.0,"mould development, insect pests, rodents, wild animals and domestic animals",ethiopia_maize (corn)_storage
+558,azerbaijan,potatoes,2018,whole supply chain,3.71,[],azerbaijan_potatoes_whole supply chain
+559,azerbaijan,"eggs, dried",2018,whole supply chain,0.5,[],"azerbaijan_eggs, dried_whole supply chain"
+560,azerbaijan,wheat,2018,whole supply chain,5.95,[],azerbaijan_wheat_whole supply chain
+561,united states of america,grapefruit juice,2018,whole supply chain,45.8415,[],united states of america_grapefruit juice_whole supply chain
+562,united states of america,"hen eggs in shell, fresh",2018,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+563,united states of america,lettuce and chicory,2018,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+564,united states of america,orange juice,2018,whole supply chain,48.7721,[],united states of america_orange juice_whole supply chain
+565,united states of america,"other beans, green",2018,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+566,united states of america,potatoes,2018,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+567,united states of america,cabbages,2018,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+568,united states of america,carrots and turnips,2018,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+569,united republic of tanzania,maize (corn),2018,storage,4.633333333333334,[],united republic of tanzania_maize (corn)_storage
+570,united republic of tanzania,maize (corn),2018,farm,5.525,[],united republic of tanzania_maize (corn)_farm
+571,kenya,maize (corn),2018,storage,10.9375,[],kenya_maize (corn)_storage
+572,united states of america,cabbages,2019,whole supply chain,10.2,[],united states of america_cabbages_whole supply chain
+573,united states of america,"other beans, green",2019,whole supply chain,7.0,[],"united states of america_other beans, green_whole supply chain"
+574,azerbaijan,"eggs, dried",2019,whole supply chain,0.5,[],"azerbaijan_eggs, dried_whole supply chain"
+575,united states of america,potatoes,2019,whole supply chain,4.0,[],united states of america_potatoes_whole supply chain
+576,azerbaijan,grapes,2019,whole supply chain,2.08,[],azerbaijan_grapes_whole supply chain
+577,ethiopia,maize (corn),2019,storage,3.707142857142857,[],ethiopia_maize (corn)_storage
+578,united states of america,carrots and turnips,2019,whole supply chain,7.5,[],united states of america_carrots and turnips_whole supply chain
+579,united states of america,grapefruit juice,2019,whole supply chain,47.9738,[],united states of america_grapefruit juice_whole supply chain
+580,azerbaijan,wheat,2019,whole supply chain,5.95,[],azerbaijan_wheat_whole supply chain
+581,azerbaijan,"meat of goat, fresh or chilled",2019,whole supply chain,0.95,[],"azerbaijan_meat of goat, fresh or chilled_whole supply chain"
+582,azerbaijan,"onions and shallots, green",2019,whole supply chain,9.1,[],"azerbaijan_onions and shallots, green_whole supply chain"
+583,azerbaijan,tomatoes,2019,whole supply chain,5.69,[],azerbaijan_tomatoes_whole supply chain
+584,united states of america,"hen eggs in shell, fresh",2019,whole supply chain,1.5,[],"united states of america_hen eggs in shell, fresh_whole supply chain"
+585,azerbaijan,oats,2019,whole supply chain,6.57,[],azerbaijan_oats_whole supply chain
+586,united states of america,lettuce and chicory,2019,whole supply chain,8.0,[],united states of america_lettuce and chicory_whole supply chain
+587,azerbaijan,potatoes,2019,whole supply chain,3.8,[],azerbaijan_potatoes_whole supply chain
+588,azerbaijan,tomatoes,2020,whole supply chain,5.7,[],azerbaijan_tomatoes_whole supply chain
+589,azerbaijan,"meat of goat, fresh or chilled",2020,whole supply chain,0.95,[],"azerbaijan_meat of goat, fresh or chilled_whole supply chain"
+590,azerbaijan,"eggs, dried",2020,whole supply chain,0.49,[],"azerbaijan_eggs, dried_whole supply chain"
+591,azerbaijan,grapes,2020,whole supply chain,2.08,[],azerbaijan_grapes_whole supply chain
+592,azerbaijan,"onions and shallots, green",2020,whole supply chain,8.68,[],"azerbaijan_onions and shallots, green_whole supply chain"
+593,azerbaijan,oats,2020,whole supply chain,6.57,[],azerbaijan_oats_whole supply chain
+594,azerbaijan,potatoes,2020,whole supply chain,3.85,[],azerbaijan_potatoes_whole supply chain
+595,azerbaijan,wheat,2020,whole supply chain,4.55,[],azerbaijan_wheat_whole supply chain
+596,malawi,maize (corn),2021,storage,8.5,[],malawi_maize (corn)_storage
+597,china,rice,2021,storage,1.605,[],china_rice_storage
